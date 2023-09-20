@@ -1,0 +1,1 @@
+# foundry-hardhat-project-template
